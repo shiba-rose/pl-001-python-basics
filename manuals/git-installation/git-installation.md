@@ -114,3 +114,52 @@ git config --list
 | При `git commit` открывается непонятный редактор (Vim) и непонятно, как выйти | Редактором по умолчанию назначен Vim | Нажмите `Esc`, введите `:q!` и `Enter`. Затем смените редактор: `git config --global core.editor "nano"` (или `"code --wait"` для VS Code) |
 | `warning: LF will be replaced by CRLF` в Windows | Автоматическая конвертация переводов строк | Это предупреждение, не ошибка. Оставьте `core.autocrlf = true` (значение по умолчанию установщика) |
 | GitHub требует пароль при `git push`, а обычный пароль не подходит | GitHub с 2021 года не принимает пароль от аккаунта по HTTPS | Создайте **Personal Access Token** в настройках GitHub и используйте его вместо пароля, либо настройте доступ по SSH-ключу |
+
+
+# 🎨 Meme Collection
+
+<!-- 
+  ИНСТРУКЦИЯ ПО ИСПОЛЬЗОВАНИЮ:
+  1. Замените URL в src="..." на ссылку на вашу картинку.
+  2. Замените URL в href="..." на ссылку, куда должен вести клик.
+  3. Для добавления новых строк скопируйте весь блок <tr>...</tr>.
+-->
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\1.jpg" width="100%" alt="Meme 1"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\2.jpg" width="100%" alt="Meme 2"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\3.jpg" width="100%" alt="Meme 3"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\4.jpg" width="100%" alt="Meme 4"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\5.jpg" width="100%" alt="Meme 5"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\6.jpg" width="100%" alt="Meme 6"/>
+      </a>
+    </td>
+  </tr>
+</table>
