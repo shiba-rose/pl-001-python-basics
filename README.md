@@ -10,3 +10,45 @@
 ## Содержание
 
 - [Введение в Python](./lessons/lesson01) — знакомство с языком Python: зачем его учить, где применяется и как соотносится с ИИ-инструментами. А также базовые основы работы с Git и GitHub.
+
+
+
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\1.jpg" width="100%" alt="Meme 1"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\2.jpg" width="100%" alt="Meme 2"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\3.jpg" width="100%" alt="Meme 3"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\4.jpg" width="100%" alt="Meme 4"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\5.jpg" width="100%" alt="Meme 5"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="www.imgur.com/a/G6rU8 ">
+        <img src="C:\pyproject\pl-001-python-basics\mem\6.jpg" width="100%" alt="Meme 6"/>
+      </a>
+    </td>
+  </tr>
+</table>

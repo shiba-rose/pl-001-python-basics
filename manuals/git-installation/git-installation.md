@@ -114,8 +114,6 @@ git config --list
 | При `git commit` открывается непонятный редактор (Vim) и непонятно, как выйти | Редактором по умолчанию назначен Vim | Нажмите `Esc`, введите `:q!` и `Enter`. Затем смените редактор: `git config --global core.editor "nano"` (или `"code --wait"` для VS Code) |
 | `warning: LF will be replaced by CRLF` в Windows | Автоматическая конвертация переводов строк | Это предупреждение, не ошибка. Оставьте `core.autocrlf = true` (значение по умолчанию установщика) |
 | GitHub требует пароль при `git push`, а обычный пароль не подходит | GitHub с 2021 года не принимает пароль от аккаунта по HTTPS | Создайте **Personal Access Token** в настройках GitHub и используйте его вместо пароля, либо настройте доступ по SSH-ключу |
-
-
 <table>
   <tr>
     <td align="center" width="50%">
