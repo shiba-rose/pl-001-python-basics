@@ -18,12 +18,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="www.imgur.com/a/G6rU8 ">
-        <img src="mem\1.jpg" width="100%" alt="Meme 1"/>
+        <img src="mem\1.png" width="100%" alt="Meme 1"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="www.imgur.com/a/G6rU8 ">
-        <img src="mem\2.png" width="100%" alt="Meme 2"/>
+        <img src="mem\2.jpg" width="100%" alt="Meme 2"/>
       </a>
     </td>
   </tr>
