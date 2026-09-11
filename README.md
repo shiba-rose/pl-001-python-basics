@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="50%">
       <a href="www.imgur.com/a/G6rU8 ">
-        <img src="mem\2.jpg" width="100%" alt="Meme 2"/>
+        <img src="mem\2.png" width="100%" alt="Meme 2"/>
       </a>
     </td>
   </tr>
@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="50%">
       <a href="www.imgur.com/a/G6rU8 ">
-        <img src="mem\6.jpg" width="100%" alt="Meme 6"/>
+        <img src="mem\6.webp" width="100%" alt="Meme 6"/>
       </a>
     </td>
   </tr>
