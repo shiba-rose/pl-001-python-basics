@@ -46,7 +46,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.imgur.com/a/G6rU8 ">
+      <a href="https://лул7www.imgur.com/a/G6rU8 ">
         <img src="mem\6.webp" width="100%" alt="Meme 6"/>
       </a>
     </td>
