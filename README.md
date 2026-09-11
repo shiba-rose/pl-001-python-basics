@@ -17,36 +17,36 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="www.imgur.com/a/G6rU8 ">
+      <a href="https://www.imgur.com/a/G6rU8 ">
         <img src="mem\1.png" width="100%" alt="Meme 1"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="www.imgur.com/a/G6rU8 ">
+      <a href="https://www.imgur.com/a/G6rU8 ">
         <img src="mem\2.jpg" width="100%" alt="Meme 2"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="www.imgur.com/a/G6rU8 ">
+      <a href="https://www.imgur.com/a/G6rU8 ">
         <img src="mem\3.jpg" width="100%" alt="Meme 3"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="www.imgur.com/a/G6rU8 ">
+      <a href="https://www.imgur.com/a/G6rU8 ">
         <img src="mem\4.jpg" width="100%" alt="Meme 4"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="www.imgur.com/a/G6rU8 ">
+      <a href="https://www.imgur.com/a/G6rU8 ">
         <img src="mem\5.jpg" width="100%" alt="Meme 5"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="www.imgur.com/a/G6rU8 ">
+      <a href="https://www.imgur.com/a/G6rU8 ">
         <img src="mem\6.webp" width="100%" alt="Meme 6"/>
       </a>
     </td>
